@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidActivity</string>
+    <string name="enter_text_edit">Введите текст:</string>
+    <string name="enter_number_edit">Введите номер:</string>
+    <string name="send_text">Отправить текст</string>
+    <string name="send_number">Отправить номер</string>
+</resources>
